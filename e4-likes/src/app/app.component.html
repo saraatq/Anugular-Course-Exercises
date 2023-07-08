@@ -1,0 +1,6 @@
+<p>{{ tweet.body }}</p>
+<bootstrap-like-btn
+  [isLiked]="tweet.isLiked"
+  [likesCount]="tweet.likesCount"
+  (change)="onLikeChange()"
+></bootstrap-like-btn>

@@ -1,0 +1,13 @@
+i {
+  font-size: 25px;
+  font-style: none;
+}
+
+.bi {
+  cursor: pointer;
+  color: #ccc;
+}
+
+.highlighted {
+  color: deeppink;
+}
