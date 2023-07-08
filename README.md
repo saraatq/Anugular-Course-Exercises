@@ -6,7 +6,7 @@ This repository contains the code for several exercises I completed during my An
 
 Implementation of a component that gets an array from a service and displays the length and each element's value in the array.
 
-### Learned:
+### Course Section Key Learnings:
 *Creating components - string interpolation - data binding - directives - services concept - dependency injection*
 
 <br/>
@@ -15,7 +15,7 @@ Implementation of a component that gets an array from a service and displays the
 
 Implementation of a favorite component (toggled between an empty heart and a filled heart when clicked).
 
-### Learned:
+### Course Section Key Learnings:
 *Property binding - attribute binding - bootstrap - class binding - style binding - event binding - event bubbling - event filtering - template variable*
 
 <br/>
@@ -24,8 +24,17 @@ Implementation of a favorite component (toggled between an empty heart and a fil
 
 Implementation of an input field that writes its value in a box but with a custom pipe (capitalized each word except prepositions).
 
-### Learned:
+### Course Section Key Learnings:
 *Two-way data binding (ngModel) - pipes - make a custom pipe*
+
+<br/>
+
+## Exercise 4:
+
+Implementation of a like button similar to the one found on Twitter, which displays the number of likes and allows users to interact with it.
+
+### Course Section Key Learnings:
+*Component API - @Input - @Output - Aliasing(input - output) - passing event data - View Encapsulation - ngContent - ngContainer*
 
 
 ----
